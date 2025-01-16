@@ -23,7 +23,7 @@
 一般情况下
 
 1. 新建字段，点击需要采集的链接。
-2. 把[取值属性](/Docs/attribute)修改为**href**
+2. 把[取值属性](http://www.51pashanhu.com//Docs/attribute)修改为**href**
 
 部分使用`javascript` 来跳转的链接需要我们手动组合链接地址( href值为空，或者类似`javascirpt:xxx()`)
 

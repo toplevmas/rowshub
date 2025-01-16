@@ -2,14 +2,14 @@
 
 1. 点击`添加字段 `。
 2. 鼠标点击网页中的图片，程序自动获取图片地址。（已有字段，选择`重新选择元素`，然后点击图片）
-    ![download](img/download_0.png)
+    ![download](http://www.51pashanhu.com/img/download_0.png)
 3. 选择要下载的字段，点击菜单按钮，选择`文件下载`菜单。
     
-    ![download](img/download_1.png)
+    ![download](http://www.51pashanhu.com/img/download_1.png)
 
 4. 设置文件名和图片的保存路径。。
 
-    ![download](img/download_2.png)
+    ![download](http://www.51pashanhu.com/img/download_2.png)
 
 5. 完成
 
@@ -17,7 +17,7 @@
 
 ###关于自定义文件名
 在爬山虎采集器中，可以使用一些自定义变量来命名文件名，比如任务名称、时间格式、随机字符、以及使用字段值来命名。这些之间可以自由组合。
-![download](img/download_3.png)
+![download](http://www.51pashanhu.com/img/download_3.png)
 
 ---
 
@@ -52,5 +52,5 @@
 有2中方法采集**延时加载**的图片
 
 1. 分析HTML代码，找出原始图片地址。 一般图片地址都存在类似`data-src`，或者`data-orignal`这样的标签属性中。 
-2. 使用[脚本命令](/Docs/script)中的滚动命令，模拟浏览器的滚动，使得图片自动加载显示。 然后在设置采集。
+2. 使用[脚本命令](http://www.51pashanhu.com/Docs/script)中的滚动命令，模拟浏览器的滚动，使得图片自动加载显示。 然后在设置采集。
 
