@@ -44,7 +44,7 @@
 ---
 
 ### 如何下载文章HTML内的多张图片
-采集新闻、文章内容时，如果内容中包含图片，我们需要采集文章的HTML形式，设置[取值属性](/Docs/attribute)为`InnerHTML`或者`OuterHTML`。 然后直接设置下载即可，程序会自动检测内容中IMG标签，并且下载图片。
+采集新闻、文章内容时，如果内容中包含图片，我们需要采集文章的HTML形式，设置[取值属性](http://www.51pashanhu.com/Docs/attribute)为`InnerHTML`或者`OuterHTML`。 然后直接设置下载即可，程序会自动检测内容中IMG标签，并且下载图片。
 
 ---
 
